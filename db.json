@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "1737545400586",
+      "title": "This is new task",
+      "body": "Test Test Test 123",
+      "type_code": "inprogress"
+    },
+    {
+      "id": "1737621053539",
+      "title": "esfsdggffg",
+      "body": "gffgfgfgfg",
+      "type_code": "todo"
+    },
+    {
+      "id": "1737623384572",
+      "title": "This is new task",
+      "body": "Test Test Test Completed task",
+      "type_code": "completed"
+    },
+    {
+      "id": "1737630218338",
+      "title": "My first task",
+      "body": "This is my first task",
+      "type_code": "todo"
+    }
+  ],
+  "task_types": [
+    {
+      "id": "1",
+      "label": "Completed",
+      "code": "completed"
+    },
+    {
+      "id": "2",
+      "label": "In progress",
+      "code": "inprogress"
+    },
+    {
+      "id": "3",
+      "label": "TODO",
+      "code": "todo"
+    }
+  ]
+}
